@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica10</string>
+    <string name="action_settings">Settings</string>
+    <string name="play">&gt;</string>
+    <string name="forward">&gt;&gt;</string>
+    <string name="backward">&lt;&lt;</string>
+
+    <string name="drawer_opened">Lista Desplegable</string>
+    <string name="drawer_closed">Lista Oculta</string>
+</resources>
